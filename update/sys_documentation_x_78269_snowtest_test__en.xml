@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Test" language="en" table="x_78269_snowtest_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Test</label>
+            <language>en</language>
+            <name>x_78269_snowtest_test</name>
+            <plural>Tests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-15 00:51:22</sys_created_on>
+            <sys_id>73438e800f3213004d59cbdce1050ef5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Test</sys_name>
+            <sys_package display_value="snowtest" source="x_78269_snowtest">b0e042400f3213004d59cbdce1050e2c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="snowtest">b0e042400f3213004d59cbdce1050e2c</sys_scope>
+            <sys_update_name>sys_documentation_x_78269_snowtest_test__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-15 00:51:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
